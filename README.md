@@ -1,8 +1,12 @@
-# Jogo do Número Secreto
+# Amigo Secreto
 
 ## 🎮 Sobre
 
 Projeto utilizado nos Challenger da Alura. Esta é uma aplicação para sortear uma amigo secreto.
+
+## Demostração
+![Captura de tela orientação aplicação amigo secreto](https://github.com/user-attachments/assets/fcd3a390-ae4a-4c82-a106-dab17cb1ce01)
+
 
 ## 🛠️ Tecnologias
 
